@@ -1,0 +1,26 @@
+.a
+{
+	padding: 25px;
+}
+.b
+{
+	padding: 25px;
+}
+.c
+{
+	border-style: solid;
+	width: 1525px;
+	border-color: green;
+	padding: 15px;
+	background-color: skyblue;
+}
+input[type="text"]
+{
+	color: blue;
+	background-color: white;
+}
+input[type="password"]
+{
+	color: blue;
+	background-color: white;
+}
